@@ -1,4 +1,4 @@
-# Coursera-AML-Specialization
+# Coursera-Advanced-Machine-Learning
 The goal of setting up this repo is to make full use of Coursera Advanced Machine Learning Specialization.
 
 ### Main Features
