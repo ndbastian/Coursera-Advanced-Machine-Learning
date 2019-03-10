@@ -11,7 +11,7 @@ This repo mainly provides the following features:
 Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWang)
 
 
-### Some Philosophy
+### Beyond the assignments
 I want to fully utilize all the projects in this specialization. However, since each project will focus on a specific course topic, not all of them have a standard procedure. I believe that setting up standard procedures for different ML/DL problems will speed up research and development. Therefore, for each of the course project, I set up a seperate jupyter notebook to faciliate my research diary which has the following stucture:
 
 **1. What does raw data look like?**
