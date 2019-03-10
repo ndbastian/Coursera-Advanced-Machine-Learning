@@ -7,7 +7,6 @@ This repo mainly provides the following features:
 2. The references of papers which appear in the courses as well as some notes about the papers
 3. Nicely commented code from helper functions to project architecture as well as a guideline of how to go through them
 4. Extend the project to end to end system: from data labeling to research diary (Ongoing)
-5. (New!) Uitlized git-lfs(https://git-lfs.github.com/) for large file upload and download
 
 Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWang)
 
