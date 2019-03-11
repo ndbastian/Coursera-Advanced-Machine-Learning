@@ -7,12 +7,11 @@ This repo mainly provides the following features:
 2. The references of papers which appear in the courses as well as some notes about the papers
 3. Nicely commented code from helper functions to project architecture as well as a guideline of how to go through them
 4. Extend the project to end to end system: from data labeling to research diary (Ongoing)
-5. (New!) Uitlized git-lfs(https://git-lfs.github.com/) for large file upload and download
 
 Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWang)
 
 
-### Some Philosophy
+### Beyond the assignments
 I want to fully utilize all the projects in this specialization. However, since each project will focus on a specific course topic, not all of them have a standard procedure. I believe that setting up standard procedures for different ML/DL problems will speed up research and development. Therefore, for each of the course project, I set up a seperate jupyter notebook to faciliate my research diary which has the following stucture:
 
 **1. What does raw data look like?**
