@@ -57,9 +57,7 @@ I want to fully utilize all the projects in this specialization. However, since 
 **[5]** "Recursive Deep Models for Semantic Compositionality
 Over a Sentiment Treebank"[[pdf]](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
 
-**[6]** "LEARNING DOCUMENT EMBEDDINGS BY PREDICTING
-N-GRAMS FOR SENTIMENT CLASSIFICATION OF LONG
-MOVIE REVIEWS"[[pdf]](https://arxiv.org/pdf/1512.08183.pdf)
+**[6]** "Learning document embeddings by predicting n-grams for sentiment classification of long movie reviews"[[pdf]](https://arxiv.org/pdf/1512.08183.pdf)
 
 **[7]** "Feature Hashing for Large Scale Multitask Learning"[[pdf]](https://arxiv.org/pdf/0902.2206.pdf)
 
