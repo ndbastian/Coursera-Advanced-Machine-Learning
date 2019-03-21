@@ -15,7 +15,7 @@ Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWan
 I want to fully utilize all the projects in this specialization. However, since each project will focus on a specific course topic, not all of them have a standard procedure. I believe that setting up standard procedures for different ML/DL problems will speed up research and development. Therefore, for each of the course project, I set up a seperate jupyter notebook to faciliate my research diary which has the following stucture:
 
 
-**2. Data Aquisition**
+**1. Data Aquisition**
 - The goal is to make full use of gpu on Google Colab or Kaggle Kernel, so it is very important to retrive data and put it in corresponding folders. A setup script is at required at the start at each notebook for easy data aquisition.
 
 **2. What does raw data look like?**
