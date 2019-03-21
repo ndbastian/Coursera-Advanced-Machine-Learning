@@ -14,31 +14,35 @@ Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWan
 ### Beyond the assignments
 I want to fully utilize all the projects in this specialization. However, since each project will focus on a specific course topic, not all of them have a standard procedure. I believe that setting up standard procedures for different ML/DL problems will speed up research and development. Therefore, for each of the course project, I set up a seperate jupyter notebook to faciliate my research diary which has the following stucture:
 
-**1. What does raw data look like?**
+
+**1. Data Aquisition**
+- The goal is to make full use of gpu on Google Colab or Kaggle Kernel, so it is very important to retrive data and put it in corresponding folders. A setup script is at required at the start at each notebook for easy data aquisition.
+
+**2. What does raw data look like?**
 - Maybe our raw data is completely unreadable from human's perspective. But I think it is always desirable to get an intuition of how these data distributes and looks like. Maybe some plottings.
 
-**2. Data preprocessing to get X_train, y_train (supervised only), etc...**
+**3. Data preprocessing to get X_train, y_train (supervised only), etc...**
 - Preprocessing should be seperated from model related staff. The seperation will make the debugging easier.
 
-**3. VISUALIZE THE DATA just before they go to the model! (Super Important!)**
+**4. VISUALIZE THE DATA just before they go to the model! (Super Important!)**
 - For example, plot images and corresponding labels before going to the training stage!
 
-**4. Postprocessing**
+**5. Postprocessing**
 - data normalization, multi-crops...
 
-**5. Model Building**
+**6. Model Building**
 - Check if non-linear activations, regularization, flatten layer, last softmax etc.. are properly arranged
 
-**6. Model Training**
+**7. Model Training**
 - Learn and apply different callback funtions
 - Learn and apply different metrics (especially for the multi-label case)
 - Save every model or save best model
 
-**7. Training Stats Reporting Dashboard**
+**8. Training Stats Reporting Dashboard**
 - Train / Val Curves
 - Metrics display
 
-**8. Model Evaluation**
+**9. Model Evaluation**
 - Evaluation Metrics Report
 - FORWARD PASS ON ORIGINAL DATA (end2end, including of processing steps)
 
